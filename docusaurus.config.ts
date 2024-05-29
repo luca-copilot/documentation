@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -17,7 +17,6 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'luca-copilot', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
-  hasTrailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -35,21 +34,21 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: require.resolve('./sidebars.ts'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/luca-copilot/documentation/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/luca-copilot/documentation/edit/main/',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       } satisfies Preset.Options,
     ],
@@ -63,7 +62,7 @@ const config: Config = {
     },
     image: 'img/social-card.png',
     navbar: {
-     logo: {
+      logo: {
         alt: 'LUCA logo',
         src: 'img/luca-gradient-laranja.png',
       },
@@ -74,7 +73,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/luca-copilot/documentation',
           label: 'GitHub',
           position: 'right',
         },
@@ -88,6 +87,10 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  customFields: {
+    hasTrailingSlash: false, // Moved to customFields
+  },
 };
 
 export default config;

@@ -1,0 +1,26 @@
+{
+  "id": "intro",
+  "title": "Boas vindas à Documentação do LUCA",
+  "description": "Boas vindas à documentação oficial do LUCA, a biblioteca de componentes para lojas Shopify projetada para elevar o design e a funcionalidade das suas lojas online. Aqui você encontrará tudo o que precisa para começar a usar o LUCA e aproveitar ao máximo seus recursos.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/documentation/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Boas vindas à Documentação do LUCA",
+    "sidebar_label": "Introdução",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Primeiros passos",
+    "permalink": "/documentation/docs/category/primeiros-passos"
+  }
+}

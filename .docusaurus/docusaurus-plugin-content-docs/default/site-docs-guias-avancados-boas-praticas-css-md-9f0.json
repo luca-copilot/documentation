@@ -1,0 +1,24 @@
+{
+  "id": "guias-avancados/boas-praticas-css",
+  "title": "Boas práticas para CSS customizado",
+  "description": "Este documento fornece orientações para personalizar componentes do LUCA usando CSS personalizado em uma loja Shopify. As práticas recomendadas incluem o uso de nomes de classes descritivos, evitar estilos globais excessivos e o uso de seletores específicos do componente. Siga estas práticas para garantir que sua personalização seja consistente e fácil de manter.",
+  "source": "@site/docs/guias-avancados/boas-praticas-css.md",
+  "sourceDirName": "guias-avancados",
+  "slug": "/guias-avancados/boas-praticas-css",
+  "permalink": "/documentation/docs/guias-avancados/boas-praticas-css",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/guias-avancados/boas-praticas-css.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "boas-praticas-css",
+    "title": "Boas práticas para CSS customizado",
+    "sidebar_label": "Boas práticas para CSS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guias avançados",
+    "permalink": "/documentation/docs/category/guias-avançados"
+  }
+}

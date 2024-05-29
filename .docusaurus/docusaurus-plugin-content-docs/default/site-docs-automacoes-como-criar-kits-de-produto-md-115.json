@@ -1,0 +1,28 @@
+{
+  "id": "automacoes/como-criar-kits-de-produto",
+  "title": "Kits de Produto",
+  "description": "Atualmente, o Shopify não oferece a função de criar kits de produto para o mercado brasileiro. Para atender a essa necessidade, criamos uma automação que utiliza recursos de meta campos e objetos do Shopify para tornar isso possível. Siga os passos abaixo para criar seus kits de produto:",
+  "source": "@site/docs/automacoes/como-criar-kits-de-produto.md",
+  "sourceDirName": "automacoes",
+  "slug": "/automacoes/como-criar-kits-de-produto",
+  "permalink": "/documentation/docs/automacoes/como-criar-kits-de-produto",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/automacoes/como-criar-kits-de-produto.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "como-criar-kits-de-produto",
+    "title": "Kits de Produto",
+    "sidebar_label": "Kits de Produto"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Estrutura de Cores",
+    "permalink": "/documentation/docs/automacoes/como-criar-estrutura-de-cores"
+  },
+  "next": {
+    "title": "Guias avançados",
+    "permalink": "/documentation/docs/category/guias-avançados"
+  }
+}

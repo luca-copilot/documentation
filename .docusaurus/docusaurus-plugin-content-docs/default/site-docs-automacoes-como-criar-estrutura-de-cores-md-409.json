@@ -1,0 +1,28 @@
+{
+  "id": "automacoes/como-criar-estrutura-de-cores",
+  "title": "Estrutura de Cores",
+  "description": "A Estrutura de Cores é uma funcionalidade automatizada do LUCA que possibilita a configuração de variações de cores em produtos por meio de meta campos. No entanto, o seu funcionamento pode variar de acordo com o cadastro específico do produto. Siga as orientações abaixo, dependendo do cenário em que você se encontra.",
+  "source": "@site/docs/automacoes/como-criar-estrutura-de-cores.md",
+  "sourceDirName": "automacoes",
+  "slug": "/automacoes/como-criar-estrutura-de-cores",
+  "permalink": "/documentation/docs/automacoes/como-criar-estrutura-de-cores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/automacoes/como-criar-estrutura-de-cores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "como-criar-estrutura-de-cores",
+    "title": "Estrutura de Cores",
+    "sidebar_label": "Estrutura de Cores"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agrupamento de Produtos",
+    "permalink": "/documentation/docs/automacoes/como-criar-agrupamento-de-produtos"
+  },
+  "next": {
+    "title": "Kits de Produto",
+    "permalink": "/documentation/docs/automacoes/como-criar-kits-de-produto"
+  }
+}

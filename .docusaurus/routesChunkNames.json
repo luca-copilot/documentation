@@ -1,0 +1,210 @@
+{
+  "/documentation/blog-486": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "1d72e4e7"
+  },
+  "/documentation/blog/archive-e26": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "7e056f79"
+  },
+  "/documentation/blog/first-blog-post-5e7": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/documentation/blog/long-blog-post-0ab": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/documentation/blog/mdx-blog-post-329": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/documentation/blog/tags-389": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "fee734eb"
+  },
+  "/documentation/blog/tags/docusaurus-562": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "6ee42e40"
+  },
+  "/documentation/blog/tags/facebook-040": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "88f031f5"
+  },
+  "/documentation/blog/tags/hello-771": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "9cf93442"
+  },
+  "/documentation/blog/tags/hola-1ec": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "19752583"
+  },
+  "/documentation/blog/welcome-8da": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/documentation/markdown-page-1c7": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/documentation/docs-0bf": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/documentation/docs-82c": {
+    "__comp": "a7bd4aaa",
+    "__props": "bc0777a3"
+  },
+  "/documentation/docs-dbd": {
+    "__comp": "a94703ab"
+  },
+  "/documentation/docs/automacoes/como-criar-agrupamento-de-produtos-837": {
+    "__comp": "17896441",
+    "content": "c8132850"
+  },
+  "/documentation/docs/automacoes/como-criar-estrutura-de-cores-9d1": {
+    "__comp": "17896441",
+    "content": "409dc291"
+  },
+  "/documentation/docs/automacoes/como-criar-kits-de-produto-5b6": {
+    "__comp": "17896441",
+    "content": "11558e62"
+  },
+  "/documentation/docs/category/automações-b24": {
+    "__comp": "14eb3368",
+    "__props": "a1830c6f"
+  },
+  "/documentation/docs/category/guias-avançados-de3": {
+    "__comp": "14eb3368",
+    "__props": "9267deaa"
+  },
+  "/documentation/docs/category/primeiros-passos-f84": {
+    "__comp": "14eb3368",
+    "__props": "ddea1d46"
+  },
+  "/documentation/docs/guias-avancados/boas-praticas-css-89f": {
+    "__comp": "17896441",
+    "content": "9f0b9c0b"
+  },
+  "/documentation/docs/intro-5f7": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/documentation/docs/primeiros-passos/como-instalar-o-luca-26f": {
+    "__comp": "17896441",
+    "content": "1bef62f1"
+  },
+  "/documentation/-4a1": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

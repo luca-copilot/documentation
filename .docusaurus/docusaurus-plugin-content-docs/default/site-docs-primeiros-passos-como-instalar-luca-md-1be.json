@@ -1,0 +1,28 @@
+{
+  "id": "primeiros-passos/como-instalar-o-luca",
+  "title": "Como Instalar o LUCA",
+  "description": "Essa primeira versão do LUCA necessita que, para ser instalado na loja do seu cliente, seja criado um app personalizado dentro da loja do seu cliente. Isso permitirá criar o tema, instalar componentes e automações necessárias para a montagem da loja.",
+  "source": "@site/docs/primeiros-passos/como-instalar-luca.md",
+  "sourceDirName": "primeiros-passos",
+  "slug": "/primeiros-passos/como-instalar-o-luca",
+  "permalink": "/documentation/docs/primeiros-passos/como-instalar-o-luca",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/primeiros-passos/como-instalar-luca.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "como-instalar-o-luca",
+    "title": "Como Instalar o LUCA",
+    "sidebar_label": "Como Instalar o LUCA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primeiros passos",
+    "permalink": "/documentation/docs/category/primeiros-passos"
+  },
+  "next": {
+    "title": "Automações",
+    "permalink": "/documentation/docs/category/automações"
+  }
+}

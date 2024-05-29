@@ -1,0 +1,28 @@
+{
+  "id": "automacoes/como-criar-agrupamento-de-produtos",
+  "title": "Agrupamento de Produtos",
+  "description": "O Agrupamento de Produtos automatiza a união de produtos semelhantes, superando limitações das variantes padrão do Shopify. Esta automação é complementar à Estrutura de Cores, permitindo associar produtos com cores únicas e garantindo URLs exclusivas. Siga os passos abaixo para instalar e usar esta funcionalidade em seu projeto.",
+  "source": "@site/docs/automacoes/como-criar-agrupamento-de-produtos.md",
+  "sourceDirName": "automacoes",
+  "slug": "/automacoes/como-criar-agrupamento-de-produtos",
+  "permalink": "/documentation/docs/automacoes/como-criar-agrupamento-de-produtos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/automacoes/como-criar-agrupamento-de-produtos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "como-criar-agrupamento-de-produtos",
+    "title": "Agrupamento de Produtos",
+    "sidebar_label": "Agrupamento de Produtos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Automações",
+    "permalink": "/documentation/docs/category/automações"
+  },
+  "next": {
+    "title": "Estrutura de Cores",
+    "permalink": "/documentation/docs/automacoes/como-criar-estrutura-de-cores"
+  }
+}
