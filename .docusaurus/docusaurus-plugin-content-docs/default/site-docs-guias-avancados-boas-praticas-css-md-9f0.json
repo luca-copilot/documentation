@@ -5,7 +5,7 @@
   "source": "@site/docs/guias-avancados/boas-praticas-css.md",
   "sourceDirName": "guias-avancados",
   "slug": "/guias-avancados/boas-praticas-css",
-  "permalink": "/documentation/docs/guias-avancados/boas-praticas-css",
+  "permalink": "/doc-public/docs/guias-avancados/boas-praticas-css",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/guias-avancados/boas-praticas-css.md",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Guias avançados",
-    "permalink": "/documentation/docs/category/guias-avançados"
+    "permalink": "/doc-public/docs/category/guias-avançados"
   }
 }

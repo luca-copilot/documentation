@@ -1,58 +1,58 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/documentation/docs",
+      "path": "/doc-public/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/documentation/docs",
+          "path": "/doc-public/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "automacoes/como-criar-agrupamento-de-produtos",
-              "path": "/documentation/docs/automacoes/como-criar-agrupamento-de-produtos",
+              "path": "/doc-public/docs/automacoes/como-criar-agrupamento-de-produtos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "automacoes/como-criar-estrutura-de-cores",
-              "path": "/documentation/docs/automacoes/como-criar-estrutura-de-cores",
+              "path": "/doc-public/docs/automacoes/como-criar-estrutura-de-cores",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "automacoes/como-criar-kits-de-produto",
-              "path": "/documentation/docs/automacoes/como-criar-kits-de-produto",
+              "path": "/doc-public/docs/automacoes/como-criar-kits-de-produto",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guias-avancados/boas-praticas-css",
-              "path": "/documentation/docs/guias-avancados/boas-praticas-css",
+              "path": "/doc-public/docs/guias-avancados/boas-praticas-css",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/documentation/docs/intro",
+              "path": "/doc-public/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "primeiros-passos/como-instalar-o-luca",
-              "path": "/documentation/docs/primeiros-passos/como-instalar-o-luca",
+              "path": "/doc-public/docs/primeiros-passos/como-instalar-o-luca",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/primeiros-passos",
-              "path": "/documentation/docs/category/primeiros-passos",
+              "path": "/doc-public/docs/category/primeiros-passos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/automações",
-              "path": "/documentation/docs/category/automações",
+              "path": "/doc-public/docs/category/automações",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/guias-avançados",
-              "path": "/documentation/docs/category/guias-avançados",
+              "path": "/doc-public/docs/category/guias-avançados",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -60,7 +60,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/documentation/docs/intro",
+                "path": "/doc-public/docs/intro",
                 "label": "Introdução"
               }
             }

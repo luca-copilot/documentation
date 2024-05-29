@@ -3,128 +3,128 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/documentation/blog',
-    component: ComponentCreator('/documentation/blog', '486'),
+    path: '/doc-public/blog',
+    component: ComponentCreator('/doc-public/blog', 'bea'),
     exact: true
   },
   {
-    path: '/documentation/blog/archive',
-    component: ComponentCreator('/documentation/blog/archive', 'e26'),
+    path: '/doc-public/blog/archive',
+    component: ComponentCreator('/doc-public/blog/archive', 'efe'),
     exact: true
   },
   {
-    path: '/documentation/blog/first-blog-post',
-    component: ComponentCreator('/documentation/blog/first-blog-post', '5e7'),
+    path: '/doc-public/blog/first-blog-post',
+    component: ComponentCreator('/doc-public/blog/first-blog-post', 'b84'),
     exact: true
   },
   {
-    path: '/documentation/blog/long-blog-post',
-    component: ComponentCreator('/documentation/blog/long-blog-post', '0ab'),
+    path: '/doc-public/blog/long-blog-post',
+    component: ComponentCreator('/doc-public/blog/long-blog-post', '383'),
     exact: true
   },
   {
-    path: '/documentation/blog/mdx-blog-post',
-    component: ComponentCreator('/documentation/blog/mdx-blog-post', '329'),
+    path: '/doc-public/blog/mdx-blog-post',
+    component: ComponentCreator('/doc-public/blog/mdx-blog-post', 'ce9'),
     exact: true
   },
   {
-    path: '/documentation/blog/tags',
-    component: ComponentCreator('/documentation/blog/tags', '389'),
+    path: '/doc-public/blog/tags',
+    component: ComponentCreator('/doc-public/blog/tags', '127'),
     exact: true
   },
   {
-    path: '/documentation/blog/tags/docusaurus',
-    component: ComponentCreator('/documentation/blog/tags/docusaurus', '562'),
+    path: '/doc-public/blog/tags/docusaurus',
+    component: ComponentCreator('/doc-public/blog/tags/docusaurus', '498'),
     exact: true
   },
   {
-    path: '/documentation/blog/tags/facebook',
-    component: ComponentCreator('/documentation/blog/tags/facebook', '040'),
+    path: '/doc-public/blog/tags/facebook',
+    component: ComponentCreator('/doc-public/blog/tags/facebook', '87e'),
     exact: true
   },
   {
-    path: '/documentation/blog/tags/hello',
-    component: ComponentCreator('/documentation/blog/tags/hello', '771'),
+    path: '/doc-public/blog/tags/hello',
+    component: ComponentCreator('/doc-public/blog/tags/hello', 'c76'),
     exact: true
   },
   {
-    path: '/documentation/blog/tags/hola',
-    component: ComponentCreator('/documentation/blog/tags/hola', '1ec'),
+    path: '/doc-public/blog/tags/hola',
+    component: ComponentCreator('/doc-public/blog/tags/hola', '9f1'),
     exact: true
   },
   {
-    path: '/documentation/blog/welcome',
-    component: ComponentCreator('/documentation/blog/welcome', '8da'),
+    path: '/doc-public/blog/welcome',
+    component: ComponentCreator('/doc-public/blog/welcome', '004'),
     exact: true
   },
   {
-    path: '/documentation/markdown-page',
-    component: ComponentCreator('/documentation/markdown-page', '1c7'),
+    path: '/doc-public/markdown-page',
+    component: ComponentCreator('/doc-public/markdown-page', 'c31'),
     exact: true
   },
   {
-    path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', '0bf'),
+    path: '/doc-public/docs',
+    component: ComponentCreator('/doc-public/docs', '13f'),
     routes: [
       {
-        path: '/documentation/docs',
-        component: ComponentCreator('/documentation/docs', '82c'),
+        path: '/doc-public/docs',
+        component: ComponentCreator('/doc-public/docs', 'ee3'),
         routes: [
           {
-            path: '/documentation/docs',
-            component: ComponentCreator('/documentation/docs', 'dbd'),
+            path: '/doc-public/docs',
+            component: ComponentCreator('/doc-public/docs', '0e3'),
             routes: [
               {
-                path: '/documentation/docs/automacoes/como-criar-agrupamento-de-produtos',
-                component: ComponentCreator('/documentation/docs/automacoes/como-criar-agrupamento-de-produtos', '837'),
+                path: '/doc-public/docs/automacoes/como-criar-agrupamento-de-produtos',
+                component: ComponentCreator('/doc-public/docs/automacoes/como-criar-agrupamento-de-produtos', '544'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/automacoes/como-criar-estrutura-de-cores',
-                component: ComponentCreator('/documentation/docs/automacoes/como-criar-estrutura-de-cores', '9d1'),
+                path: '/doc-public/docs/automacoes/como-criar-estrutura-de-cores',
+                component: ComponentCreator('/doc-public/docs/automacoes/como-criar-estrutura-de-cores', '19b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/automacoes/como-criar-kits-de-produto',
-                component: ComponentCreator('/documentation/docs/automacoes/como-criar-kits-de-produto', '5b6'),
+                path: '/doc-public/docs/automacoes/como-criar-kits-de-produto',
+                component: ComponentCreator('/doc-public/docs/automacoes/como-criar-kits-de-produto', '5da'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/category/automações',
-                component: ComponentCreator('/documentation/docs/category/automações', 'b24'),
+                path: '/doc-public/docs/category/automações',
+                component: ComponentCreator('/doc-public/docs/category/automações', '216'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/category/guias-avançados',
-                component: ComponentCreator('/documentation/docs/category/guias-avançados', 'de3'),
+                path: '/doc-public/docs/category/guias-avançados',
+                component: ComponentCreator('/doc-public/docs/category/guias-avançados', '33a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/category/primeiros-passos',
-                component: ComponentCreator('/documentation/docs/category/primeiros-passos', 'f84'),
+                path: '/doc-public/docs/category/primeiros-passos',
+                component: ComponentCreator('/doc-public/docs/category/primeiros-passos', '6a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/guias-avancados/boas-praticas-css',
-                component: ComponentCreator('/documentation/docs/guias-avancados/boas-praticas-css', '89f'),
+                path: '/doc-public/docs/guias-avancados/boas-praticas-css',
+                component: ComponentCreator('/doc-public/docs/guias-avancados/boas-praticas-css', '1c3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/intro',
-                component: ComponentCreator('/documentation/docs/intro', '5f7'),
+                path: '/doc-public/docs/intro',
+                component: ComponentCreator('/doc-public/docs/intro', '0e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/documentation/docs/primeiros-passos/como-instalar-o-luca',
-                component: ComponentCreator('/documentation/docs/primeiros-passos/como-instalar-o-luca', '26f'),
+                path: '/doc-public/docs/primeiros-passos/como-instalar-o-luca',
+                component: ComponentCreator('/doc-public/docs/primeiros-passos/como-instalar-o-luca', 'a92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -135,8 +135,8 @@ export default [
     ]
   },
   {
-    path: '/documentation/',
-    component: ComponentCreator('/documentation/', '4a1'),
+    path: '/doc-public/',
+    component: ComponentCreator('/doc-public/', 'a96'),
     exact: true
   },
   {

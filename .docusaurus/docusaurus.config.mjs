@@ -7,10 +7,11 @@ export default {
   "title": "LUCA",
   "tagline": "Transforme sua Loja Shopify com a Biblioteca de Componentes LUCA",
   "favicon": "img/favicon.png",
-  "url": "https://luca.global",
-  "baseUrl": "/documentation/",
-  "organizationName": "luca-copilot",
-  "projectName": "documentation",
+  "url": "https://luca-copilot.github.io",
+  "baseUrl": "/doc-public/",
+  "organizationName": "luca-copilot/vitormateus",
+  "projectName": "doc-public",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/luavaz/Documents/luca-docs/documentation/sidebars.ts",
+          "sidebarPath": "/Users/vitorcosta/Developer/luca/documentation/sidebars.ts",
           "editUrl": "https://github.com/luca-copilot/documentation/edit/main/"
         },
         "blog": {
@@ -34,7 +35,7 @@ export default {
           "editUrl": "https://github.com/luca-copilot/documentation/edit/main/"
         },
         "theme": {
-          "customCss": "/Users/luavaz/Documents/luca-docs/documentation/src/css/custom.css"
+          "customCss": "/Users/vitorcosta/Developer/luca/documentation/src/css/custom.css"
         }
       }
     ]

@@ -5,7 +5,7 @@
   "source": "@site/docs/primeiros-passos/como-instalar-luca.md",
   "sourceDirName": "primeiros-passos",
   "slug": "/primeiros-passos/como-instalar-o-luca",
-  "permalink": "/documentation/docs/primeiros-passos/como-instalar-o-luca",
+  "permalink": "/doc-public/docs/primeiros-passos/como-instalar-o-luca",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/primeiros-passos/como-instalar-luca.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Primeiros passos",
-    "permalink": "/documentation/docs/category/primeiros-passos"
+    "permalink": "/doc-public/docs/category/primeiros-passos"
   },
   "next": {
     "title": "Automações",
-    "permalink": "/documentation/docs/category/automações"
+    "permalink": "/doc-public/docs/category/automações"
   }
 }

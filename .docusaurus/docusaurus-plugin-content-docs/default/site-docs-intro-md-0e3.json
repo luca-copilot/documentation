@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/documentation/docs/intro",
+  "permalink": "/doc-public/docs/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/intro.md",
@@ -21,6 +21,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Primeiros passos",
-    "permalink": "/documentation/docs/category/primeiros-passos"
+    "permalink": "/doc-public/docs/category/primeiros-passos"
   }
 }

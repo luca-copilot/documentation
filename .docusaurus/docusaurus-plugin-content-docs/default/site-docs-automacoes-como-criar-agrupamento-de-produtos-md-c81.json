@@ -5,7 +5,7 @@
   "source": "@site/docs/automacoes/como-criar-agrupamento-de-produtos.md",
   "sourceDirName": "automacoes",
   "slug": "/automacoes/como-criar-agrupamento-de-produtos",
-  "permalink": "/documentation/docs/automacoes/como-criar-agrupamento-de-produtos",
+  "permalink": "/doc-public/docs/automacoes/como-criar-agrupamento-de-produtos",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/luca-copilot/documentation/edit/main/docs/automacoes/como-criar-agrupamento-de-produtos.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Automações",
-    "permalink": "/documentation/docs/category/automações"
+    "permalink": "/doc-public/docs/category/automações"
   },
   "next": {
     "title": "Estrutura de Cores",
-    "permalink": "/documentation/docs/automacoes/como-criar-estrutura-de-cores"
+    "permalink": "/doc-public/docs/automacoes/como-criar-estrutura-de-cores"
   }
 }

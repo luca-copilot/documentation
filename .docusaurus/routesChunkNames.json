@@ -1,5 +1,5 @@
 {
-  "/documentation/blog-486": {
+  "/doc-public/blog-bea": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "1d72e4e7"
+    "__props": "de8b21c0"
   },
-  "/documentation/blog/archive-e26": {
+  "/doc-public/blog/archive-efe": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "7e056f79"
+    "__props": "bd4677a4"
   },
-  "/documentation/blog/first-blog-post-5e7": {
+  "/doc-public/blog/first-blog-post-b84": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -39,7 +39,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/documentation/blog/long-blog-post-0ab": {
+  "/doc-public/blog/long-blog-post-383": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -50,7 +50,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/documentation/blog/mdx-blog-post-329": {
+  "/doc-public/blog/mdx-blog-post-ce9": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -61,15 +61,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/documentation/blog/tags-389": {
+  "/doc-public/blog/tags-127": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "fee734eb"
+    "__props": "1f993e64"
   },
-  "/documentation/blog/tags/docusaurus-562": {
+  "/doc-public/blog/tags/docusaurus-498": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -89,9 +89,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "6ee42e40"
+    "__props": "4a9a7594"
   },
-  "/documentation/blog/tags/facebook-040": {
+  "/doc-public/blog/tags/facebook-87e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -102,9 +102,9 @@
         "content": "7661071f"
       }
     ],
-    "__props": "88f031f5"
+    "__props": "3494ffc4"
   },
-  "/documentation/blog/tags/hello-771": {
+  "/doc-public/blog/tags/hello-c76": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -118,9 +118,9 @@
         "content": "8717b14a"
       }
     ],
-    "__props": "9cf93442"
+    "__props": "fd6dfad8"
   },
-  "/documentation/blog/tags/hola-1ec": {
+  "/doc-public/blog/tags/hola-9f1": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -131,9 +131,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "19752583"
+    "__props": "5d7e6f1a"
   },
-  "/documentation/blog/welcome-8da": {
+  "/doc-public/blog/welcome-004": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -144,63 +144,63 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/documentation/markdown-page-1c7": {
+  "/doc-public/markdown-page-c31": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/documentation/docs-0bf": {
+  "/doc-public/docs-13f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/documentation/docs-82c": {
+  "/doc-public/docs-ee3": {
     "__comp": "a7bd4aaa",
-    "__props": "bc0777a3"
+    "__props": "80c8761b"
   },
-  "/documentation/docs-dbd": {
+  "/doc-public/docs-0e3": {
     "__comp": "a94703ab"
   },
-  "/documentation/docs/automacoes/como-criar-agrupamento-de-produtos-837": {
+  "/doc-public/docs/automacoes/como-criar-agrupamento-de-produtos-544": {
     "__comp": "17896441",
     "content": "c8132850"
   },
-  "/documentation/docs/automacoes/como-criar-estrutura-de-cores-9d1": {
+  "/doc-public/docs/automacoes/como-criar-estrutura-de-cores-19b": {
     "__comp": "17896441",
     "content": "409dc291"
   },
-  "/documentation/docs/automacoes/como-criar-kits-de-produto-5b6": {
+  "/doc-public/docs/automacoes/como-criar-kits-de-produto-5da": {
     "__comp": "17896441",
     "content": "11558e62"
   },
-  "/documentation/docs/category/automações-b24": {
+  "/doc-public/docs/category/automações-216": {
     "__comp": "14eb3368",
-    "__props": "a1830c6f"
+    "__props": "f626c812"
   },
-  "/documentation/docs/category/guias-avançados-de3": {
+  "/doc-public/docs/category/guias-avançados-33a": {
     "__comp": "14eb3368",
-    "__props": "9267deaa"
+    "__props": "0ef5502c"
   },
-  "/documentation/docs/category/primeiros-passos-f84": {
+  "/doc-public/docs/category/primeiros-passos-6a4": {
     "__comp": "14eb3368",
-    "__props": "ddea1d46"
+    "__props": "7166e919"
   },
-  "/documentation/docs/guias-avancados/boas-praticas-css-89f": {
+  "/doc-public/docs/guias-avancados/boas-praticas-css-1c3": {
     "__comp": "17896441",
     "content": "9f0b9c0b"
   },
-  "/documentation/docs/intro-5f7": {
+  "/doc-public/docs/intro-0e7": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/documentation/docs/primeiros-passos/como-instalar-o-luca-26f": {
+  "/doc-public/docs/primeiros-passos/como-instalar-o-luca-a92": {
     "__comp": "17896441",
     "content": "1bef62f1"
   },
-  "/documentation/-4a1": {
+  "/doc-public/-a96": {
     "__comp": "1df93b7f",
     "__context": {
       "plugin": "a7456010"
